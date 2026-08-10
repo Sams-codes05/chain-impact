@@ -114,7 +114,7 @@ gen_ai/
 
 ## 🎥 Project Demo
 
-[▶️ Watch the Project Demo](docs/demo/chain impact recordings.mp4)
+[▶️ Watch Project Demo](docs/demo/chain%20impact%20recordings.mp4)
 
 ---
 
