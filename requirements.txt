@@ -43,3 +43,4 @@ PyJWT==2.8.0
 # Utilities
 requests==2.31.0
 gunicorn==21.2.0
+supabase==2.27.2
