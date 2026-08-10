@@ -1,0 +1,72 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── Environment / Secrets ─────────────────────────────────────────────────────
+# Never commit real credentials. Use .env.example for variable names only.
+.env
+.env.*
+!.env.example
+
+# ── Database ──────────────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Uploads / Generated runtime files ────────────────────────────────────────
+uploads/
+receipts/
+temp/
+
+# ── Node / React ──────────────────────────────────────────────────────────────
+node_modules/
+frontend/build/
+frontend/.env.local
+frontend/node_modules/
+.cache/
+
+# ── Hardhat generated artifacts ───────────────────────────────────────────────
+# contracts/DonationRegistry.sol and contracts/*.json are source — keep those.
+artifacts/
+cache/
+typechain-types/
+
+# ── Blockchain keystores ───────────────────────────────────────────────────────
+*.keystore
+
+# ── Local development helper scripts ─────────────────────────────────────────
+# Useful locally but machine-specific / not required in the repository.
+run.bat
+start-blockchain.bat
+START_PROJECT.bat
+*.cmd
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+

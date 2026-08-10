@@ -1,0 +1,45 @@
+# Core Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Migrate==4.0.5
+
+# AI/OCR Processing
+easyocr==1.7.1
+Pillow==10.1.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+
+# QR Code Generation
+qrcode==7.4.2
+
+# Blockchain Integration
+web3==6.11.3
+eth-account==0.10.0
+
+# PDF Generation
+reportlab==4.0.7
+PyPDF2==3.0.1
+
+# Email Notifications
+Flask-Mail==0.9.1
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Data Validation
+pydantic==2.5.0
+
+# Date/Time Handling
+python-dateutil==2.8.2
+
+# API Documentation
+flask-swagger-ui==4.11.1
+
+# Security
+cryptography==41.0.7
+PyJWT==2.8.0
+
+# Utilities
+requests==2.31.0
+gunicorn==21.2.0
