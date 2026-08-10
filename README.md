@@ -105,27 +105,16 @@ gen_ai/
 
 ## 📸 Screenshots
 
-### Home
-
-![Home](docs/screenshots/home.png)
-
-### Donation
-
-![Donation](docs/screenshots/donation.png)
-
 ### Dashboard
-
-![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](docs/screenshots/Analytics_chain_impact.png)
 
 ### Blockchain Verification
-
-![Blockchain Verification](docs/screenshots/verification.png)
-
----
+![Blockchain Verification](docs/screenshots/Polygon_testnet_verification.png)
+  ---
 
 ## 🎥 Project Demo
 
-[▶️ Watch the Project Demo](docs/demo/chain-impact-demo.mp4)
+[▶️ Watch the Project Demo](docs/demo/chain impact recordings.mp4)
 
 ---
 
@@ -264,12 +253,8 @@ Please keep contributions focused and avoid unrelated architectural changes.
 
 ---
 
-<div align="center">
-
 **Donation Transparency & Verification Platform**
 
 AI-assisted processing • Blockchain-backed records • Verifiable transactions
 
 **Sams Winson A · Akash G**
-
-</div>
