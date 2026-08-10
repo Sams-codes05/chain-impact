@@ -87,6 +87,9 @@ Transaction Verification
 gen_ai/
 ├── frontend/                       # React application
 ├── contracts/                      # Solidity smart contracts
+├── docs/
+│   ├── screenshots/                # Project screenshots
+│   └── demo/                       # Project demonstration video
 ├── app.py                          # Flask application
 ├── config.py                       # Application configuration
 ├── blockchain_service.py            # Blockchain integration
@@ -97,6 +100,32 @@ gen_ai/
 ├── .gitignore
 └── README.md
 ```
+
+---
+
+## 📸 Screenshots
+
+### Home
+
+![Home](docs/screenshots/home.png)
+
+### Donation
+
+![Donation](docs/screenshots/donation.png)
+
+### Dashboard
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+### Blockchain Verification
+
+![Blockchain Verification](docs/screenshots/verification.png)
+
+---
+
+## 🎥 Project Demo
+
+[▶️ Watch the Project Demo](docs/demo/chain-impact-demo.mp4)
 
 ---
 
@@ -207,7 +236,7 @@ Deployment metadata, including the configured contract address where applicable,
 
 ## 👥 Project Members
 
-* **Sams Winson S**
+* **Sams Winson A**
 * **Akash G**
 
 ---
@@ -241,6 +270,6 @@ Please keep contributions focused and avoid unrelated architectural changes.
 
 AI-assisted processing • Blockchain-backed records • Verifiable transactions
 
-**Sams Winson S · Akash G**
+**Sams Winson A · Akash G**
 
 </div>
